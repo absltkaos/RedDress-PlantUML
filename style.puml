@@ -200,6 +200,12 @@ skinparam activity {
   arrow_style()
 }
 
+skinparam activityDiamond {
+  basic_style()
+  font_style()
+  arrow_style()
+}
+
 skinparam sequence {
   font_style()
   arrow_style()
